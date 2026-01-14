@@ -2,8 +2,8 @@ Hisar ar-ge stm32f407g cube ide kodlarıdır :
 
 gps eklendi (15_01_2026)
 
-tx - pa2 pini
-rx - pa3 pini
+tx - pa3 pini
+rx - pa2 pini
 gnd - gnd pini
 vcc - vcc pini
 
