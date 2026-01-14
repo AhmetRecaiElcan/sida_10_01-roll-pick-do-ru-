@@ -1,5 +1,11 @@
-Ahmet Recai Elcan sida arayüzü için stm32 nin cube ide kodları bulunmaktadır 
-bu süreçte bu kodların gizlilik ve kullanım hisar arge takımına aittir
-(githubumu kurtarana kadar herekese açık bir şekilde yayınlanacaktır)
-(stm32cube ıde 1.19.0 sürümünde yapay zeka ile yazılmıştır herşeyin çalışmasını beklemeyiniz...)
-(stm32f407g discovery ile denenmiştir)
+Hisar ar-ge stm32f407g cube ide kodlarıdır :
+
+gps eklendi (15_01_2026)
+
+tx - pa2 pini
+rx - pa3 pini
+gnd - gnd pini
+vcc - vcc pini
+
+roll ve pitch dataları çekiliyor (10_01_2026)
+roll ve pitch değerleri kendi dahili ls sensöründen alınıyor imu gelene kadar...
